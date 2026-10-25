@@ -3,7 +3,7 @@
 A single-page About Me website built with HTML5, CSS and JavaScript. Open `index.html` in a browser to view it locally.
 
 - **GitHub:** https://github.com/AhalaAyyalas
-- **Live site (Vercel):** https://YOUR-PROJECT.vercel.app
+- **Live site (Vercel):** https://aboutme-ahala-ayyalas.vercel.app
 - **Files:** `index.html`, `README.md`
 
 ## AI Usage
